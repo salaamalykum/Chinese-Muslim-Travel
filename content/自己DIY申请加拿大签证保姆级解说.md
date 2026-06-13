@@ -4,27 +4,27 @@ original_url: "https://salaamalykum.com/cn/article/1168"
 canonical_url: "https://salaamalykum.com/cn/article/1168"
 author: "Hasan09"
 pub_date: "2026-06-13T00:00:00Z"
-lastmod: "2026-06-13T17:36:49Z"
+lastmod: "2026-06-13T17:39:59Z"
 language: "zh-CN"
 topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
-content_hash: "2bf528e7f8f829bbe7c40c9d36b62a068e42c471424c6a4cc54617ace31325a0"
+content_hash: "3d9f4b9ef6c2a28fd99a211c49c6764eca8a988cdbe931eeba325b4e26798494"
 ---
 
-[b]网络转帖[/b]
+**网络转帖**
 
-[b]摘要：[/b]这篇文章围绕穆斯林旅行、清真寺见闻、清真美食和海外生活体验展开，适合关注穆斯林旅行攻略、清真餐饮、清真寺信息和海外华人穆斯林生活的读者阅读。
+**摘要：**这篇文章围绕穆斯林旅行、清真寺见闻、清真美食和海外生活体验展开，适合关注穆斯林旅行攻略、清真餐饮、清真寺信息和海外华人穆斯林生活的读者阅读。
 
-[b]自己DIY申请加拿大签证保姆级解说[/b]
+**自己DIY申请加拿大签证保姆级解说**
 
 我每次出国需要的签证都是自己办的，没有委托过中介，之前办过最复杂的签证是美签，但这次申请加拿大签证，让我觉得比美签还要复杂，尽管走了美签简化渠道，但是依然有很多细节的地方在网上找不到相关的信息可参考，所以写下这篇申请流程，希望能够帮助到有同样困惑的伙伴。
 
-[b]加拿大的旅游签证有两个申请通道：[/b]
+**加拿大的旅游签证有两个申请通道：**
 
-[b]一个是GCKey[/b]
+**一个是GCKey**
 
 网址https://clegc-gckey.gc.ca，这个通道需要VPN，中国大陆无法登录，且要填写的资料和问题较多，但它的优点是可以上传内存较大的文件，我试过之后感觉特别复杂，就换成另一个
 
-[b]“The IRCC portail”[/b]
+**“The IRCC portail”**
 
 网址 https://portal-portail.apps.cic.gc.ca/signin?lang=en
 
@@ -36,7 +36,7 @@ content_hash: "2bf528e7f8f829bbe7c40c9d36b62a068e42c471424c6a4cc54617ace31325a0"
 
 虽然是简化流程，但是从我3月6日提交申请，到4月5日拿到贴有签证的护照也耗时近1个月时间，加拿大签证的办理时间是个迷，我看有的网友办了大半年都没办下来。
 
-[b]办加拿大旅游签证的流程主要分三个流程：[/b]
+**办加拿大旅游签证的流程主要分三个流程：**
 
 1、在线填写申请表；
 2、前往加拿大签证中心录指纹；
@@ -49,13 +49,13 @@ content_hash: "2bf528e7f8f829bbe7c40c9d36b62a068e42c471424c6a4cc54617ace31325a0"
 
 这是一个专门办理各国签证的公司，有官方授权。需要注意的是在线预约的链接经常打不开，或者收不到验证码，最简单的办法是上班时间打电话预约，或者反复刷新几次网页即可，基本都能约到一周之后录指纹时间。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_001.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_001.jpg)
 
-[b]北京加拿大签证中心[/b]
+**北京加拿大签证中心**
 
 北京的加拿大签证中心在光华路SOHO的C座地下B1，从西面的这个口可以进入，也可以从C座的电梯下去。
 
-[b]录指纹需要携带这些纸质材料：[/b]
+**录指纹需要携带这些纸质材料：**
 
 1、护照原件及复印件；
 
@@ -67,21 +67,21 @@ content_hash: "2bf528e7f8f829bbe7c40c9d36b62a068e42c471424c6a4cc54617ace31325a0"
 
 5、Biometric Instruction Letter 收集生物信息邀请信
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_002.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_002.jpg)
 
 地下B1都是办各国签证的窗口，加拿大门口的人最多。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_003.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_003.jpg)
 
 如果来不及打印，可以在签证中心门口打印，但是收费很贵，打印一张纸要5块钱，复印1块钱。
 
 在门口按照预约时间排队，拿号，进去窗口提交材料，拍照、录指纹，整个流程大约30分钟，然后就可以回家等待审核结果了，期间如果发现个人信息有误，可以在加拿大移民局网站搜索“webform”，用webform可以修改个人信息，如果你发现姓名、护照等信息错误，都可以在webform里修改，也可以用webform补充资料，甚至被拒签之后，也可以在webform申诉。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_004.png[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_004.png)
 
 我是3月13号录完指纹，3月29号收到邮件审核通过，可以提交护照贴签。
 
-[b]提交护照无需预约，直接去签证中心即可，但需要携带：[/b]
+**提交护照无需预约，直接去签证中心即可，但需要携带：**
 
 1、护照原件；
 2、护照信息页复印件；
@@ -90,160 +90,160 @@ content_hash: "2bf528e7f8f829bbe7c40c9d36b62a068e42c471424c6a4cc54617ace31325a0"
 
 如果不自己提交，选择邮寄则需要按照下图的须知支付邮费。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_005.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_005.jpg)
 
 我家离得近，时间又自由，当然选择自己提交，把这个96元快递费省了。短信通知费用也不需要缴，因为邮箱里会收到办理进度。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_006.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_006.jpg)
 
 提交护照也要排队拿号，我这次等待时间比较长，等了一个多小时才轮到我。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_007.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_007.jpg)
 
 自己送签需要注意签证中心的放假时间，加拿大的工作时间和我们的公共假期不太一致，比如今天是清明节放假，但他们上班，我就是今天拿到的护照。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_008.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_008.jpg)
 
 从提交护照到取回，大约3-4天时间，当你邮箱里收到下图这封邮件时，就可以动身前往签证中心领取护照了。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_009.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_009.jpg)
 
-[b]领取护照需要携带：[/b]
+**领取护照需要携带：**
 
-[b]1、身份证原件[/b]
+**1、身份证原件**
 
 2、护照复印件（上面盖有签证中心章）；
 
 3、邮箱内的PDF确认书及收据打印件。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_010.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_010.jpg)
 
 我清楚地记得领取护照在1号窗口，拿到图上这个信封，拆开里面是护照，当着工作人员的面检查签证信息是否有误。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_011.png[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_011.png)
 
 加拿大旅游签证的有效期是跟着护照有效期一致的，护照还有多久到期签证就有多久有效期。我的护照是新换的，所以直接拿到了10年签。
 
 接下来就是安排我6月份赴加拿大的行程安排了，有懂加拿大的小伙伴欢迎给我留言提供有关加拿大的各种与清真有关的信息。
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_012.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_012.jpg)
 
-[b]——作者·叶哈雅 ——[/b]
+**——作者·叶哈雅 ——**
 
-[b]明亚保险经纪资深合伙人/销售经理[/b]
+**明亚保险经纪资深合伙人/销售经理**
 
-[b]全球寿险百万圆桌会员MDRT[/b]
+**全球寿险百万圆桌会员MDRT**
 
-[b]IMA国际保险名家[/b]
+**IMA国际保险名家**
 
-[b]扫下方二维码，加叶哈雅微信[/b]
+**扫下方二维码，加叶哈雅微信**
 
-[img]https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_013.jpg[/img]
+![image](https://archive.org/download/salaamalykum_wechat_repost_wdck98kj_20260513_b2/30_30-0gBDkBBquOz3V2NuLIzPQA_013.jpg)
 
-[b]往期回顾：[/b]
+**往期回顾：**
 
-[b]广州清真旅行地图[/b]
+**广州清真旅行地图**
 
-[b]和撒拉族亲戚们一起过古尔邦节[/b]
+**和撒拉族亲戚们一起过古尔邦节**
 
-[b]四川绵阳清真之旅——李白故里的江油礼拜寺[/b]
+**四川绵阳清真之旅——李白故里的江油礼拜寺**
 
-[b]重庆清真之旅（二）——巴蜀最大的礼拜寺已经启用[/b]
+**重庆清真之旅（二）——巴蜀最大的礼拜寺已经启用**
 
-[b]四川松潘九寨沟清真之旅——茶马古道上的蜀中回回[/b]
+**四川松潘九寨沟清真之旅——茶马古道上的蜀中回回**
 
-[b]嘎德忍耶太师祖的归真之地——鹿龄寺[/b]
+**嘎德忍耶太师祖的归真之地——鹿龄寺**
 
-[b]湖南常德清真之旅——在桃花源寻找维吾尔人的第二故乡[/b]
+**湖南常德清真之旅——在桃花源寻找维吾尔人的第二故乡**
 
-[b]西双版纳清真之旅——说傣语穿傣服的回傣村寨[/b]
+**西双版纳清真之旅——说傣语穿傣服的回傣村寨**
 
-[b]桂林清真之旅——白崇禧老家探秘[/b]
+**桂林清真之旅——白崇禧老家探秘**
 
-[b]西藏清真美食地图[/b]
+**西藏清真美食地图**
 
-[b]青海清真之旅[/b]
+**青海清真之旅**
 
-[b]临夏甘南清真之旅——经商办教两不误的西道堂[/b]
+**临夏甘南清真之旅——经商办教两不误的西道堂**
 
 河南省济源市清真之旅——你身边有袁姓回族吗？
 
 广州清真之旅——粤式早茶哪家强？
 
-[b]广东肇庆清真之旅——清真寺、回民古墓与脆皮烧鹅[/b]
+**广东肇庆清真之旅——清真寺、回民古墓与脆皮烧鹅**
 
-[b]郑州清真之旅[/b]
+**郑州清真之旅**
 
-[b]长治清真之旅[/b]
+**长治清真之旅**
 
-[b]深圳清真之旅——华为食堂的滩羊真攒劲[/b]
+**深圳清真之旅——华为食堂的滩羊真攒劲**
 
-[b]香港清真之旅——百年中华回教博爱社[/b]
+**香港清真之旅——百年中华回教博爱社**
 
-[b]澳门清真之旅——东南亚美食与回教坟场[/b]
+**澳门清真之旅——东南亚美食与回教坟场**
 
-[b]张家口清真之旅——自驾张北草原天路[/b]
+**张家口清真之旅——自驾张北草原天路**
 
-[b]南疆清真之旅——信奉什叶派的塔吉克人[/b]
+**南疆清真之旅——信奉什叶派的塔吉克人**
 
-[b]云南沙甸清真之旅[/b]
+**云南沙甸清真之旅**
 
-[b]成都清真之旅——都江堰与弥牟镇的蜀中回回[/b]
+**成都清真之旅——都江堰与弥牟镇的蜀中回回**
 
-[b]宁夏清真之旅——塞上明珠的美食不只有“滩羊”[/b]
+**宁夏清真之旅——塞上明珠的美食不只有“滩羊”**
 
-[b]甘肃清真之旅——圣门弟子吾艾斯拱北[/b]
+**甘肃清真之旅——圣门弟子吾艾斯拱北**
 
-[b]兰州清真之旅——中国最大的拱北“五星坪灵明堂”[/b]
+**兰州清真之旅——中国最大的拱北“五星坪灵明堂”**
 
-[b]南疆清真之旅——叶尔羌汗国王陵与吐尔迪阿吉庄园[/b]
+**南疆清真之旅——叶尔羌汗国王陵与吐尔迪阿吉庄园**
 
 北疆清真之旅——“赛里木”湖其实叫赛丽麦？
 
-[b]喀什清真之旅——香妃园中的阿帕克和卓麻扎[/b]
+**喀什清真之旅——香妃园中的阿帕克和卓麻扎**
 
-[b]库车清真之旅—默拉纳额什丁与龟兹佛国[/b]
+**库车清真之旅—默拉纳额什丁与龟兹佛国**
 
-[b]西昌和田坝的回民村[/b]
+**西昌和田坝的回民村**
 
-[b]沙湾、乌鲁木齐、哈密见闻[/b]
+**沙湾、乌鲁木齐、哈密见闻**
 
-[b]阿拉伯三国游——传统与现代的阿联酋[/b]
+**阿拉伯三国游——传统与现代的阿联酋**
 
-[b]叶哈雅的清真寺足迹（截止2024年1月8日）[/b]
+**叶哈雅的清真寺足迹（截止2024年1月8日）**
 
-[b]泰安的七十座礼拜寺[/b]
+**泰安的七十座礼拜寺**
 
-[b]大理清真美食地图[/b]
+**大理清真美食地图**
 
-[b]成都清真美食地图[/b]
+**成都清真美食地图**
 
-[b]埃及旅行避坑指南[/b]
+**埃及旅行避坑指南**
 
-[b]麦加朝觐之旅[/b]
+**麦加朝觐之旅**
 
-[b]麦地那圣迹地图[/b]
+**麦地那圣迹地图**
 
-[b]西安回坊清真逛吃指南[/b]
+**西安回坊清真逛吃指南**
 
-[b]日本北海道清真之旅[/b]
+**日本北海道清真之旅**
 
-[b]纽约、亚特兰大、西雅图清真美食地图[/b]
+**纽约、亚特兰大、西雅图清真美食地图**
 
-[b]俄罗斯海参崴（符拉迪沃斯托克）冬季清真之旅[/b]
+**俄罗斯海参崴（符拉迪沃斯托克）冬季清真之旅**
 
-[b]印尼清真之旅——一个中国回族人眼中的印尼[/b]
+**印尼清真之旅——一个中国回族人眼中的印尼**
 
-[b]新西兰春季之旅（南岛基督城——北岛奥克兰）[/b]
+**新西兰春季之旅（南岛基督城——北岛奥克兰）**
 
-[b]免签一日游遍新加坡[/b]
+**免签一日游遍新加坡**
 
-[b]泰国普吉岛清真美食地图[/b]
+**泰国普吉岛清真美食地图**
 
-[b]东京清真美食地图[/b]
+**东京清真美食地图**
 
-[b]越南胡志明、芽庄清真美食地图[/b]
+**越南胡志明、芽庄清真美食地图**
 
-[b]吉隆坡8座漂亮的清真寺[/b]
+**吉隆坡8座漂亮的清真寺**
 
-[b]吉隆坡清真美食地图[/b]
+**吉隆坡清真美食地图**
