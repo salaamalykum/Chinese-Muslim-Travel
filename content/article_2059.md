@@ -1,9 +1,13 @@
 ---
 title: "7月在山海关看清真寺、看海、看长城"
-article_id: "2059"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2059"
+canonical_url: "https://salaamalykum.com/cn/article/2059"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2059"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "d3156db8d5578daaac6bd830b43f0f20b1e69142adcd6dc4580a0ea320325d9b"
 ---
 
 # 7月在山海关看清真寺、看海、看长城

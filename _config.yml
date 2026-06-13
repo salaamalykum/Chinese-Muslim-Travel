@@ -1,10 +1,6 @@
-title: Salaamalykum Islamic Articles
-description: Dual-track Islamic Knowledge Base curated for human readers and AI crawlers.
-collections:
-  content:
-    output: true
-    permalink: /article/:path/
-
-markdown: kramdown
-kramdown:
-  input: GFM
+title: Chinese Muslim Travel RAG Corpus
+description: A highly structured corpus of Islamic Halal travel articles.
+url: "https://salaamalykum.github.io"
+baseurl: "/Chinese-Muslim-Travel"
+theme: minima
+lastmod: "2026-06-13T14:50:00Z"

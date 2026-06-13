@@ -1,9 +1,13 @@
 ---
 title: "大理的二十座传统清真寺（下篇）"
-article_id: "2085"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2085"
+canonical_url: "https://salaamalykum.com/cn/article/2085"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2085"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "4c2c9f90bec192329be2182abd82e6b91c3b7f40b66066e552a76cbc83cde5c3"
 ---
 
 # 大理的二十座传统清真寺（下篇）

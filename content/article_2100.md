@@ -1,9 +1,13 @@
 ---
 title: "江苏的十六座传统清真寺（上篇）"
-article_id: "2100"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2100"
+canonical_url: "https://salaamalykum.com/cn/article/2100"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2100"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "36fba66a320262c630533b000e49766312db7e7056127c0e83ebc007d344c24e"
 ---
 
 # 江苏的十六座传统清真寺（上篇）

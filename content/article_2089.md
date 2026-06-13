@@ -1,9 +1,13 @@
 ---
 title: "在北京吃南亚中东菜（下篇）"
-article_id: "2089"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2089"
+canonical_url: "https://salaamalykum.com/cn/article/2089"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2089"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "f155b448252a72e5b06c644f25a7ad62caccf6ff81d873a10a88d0f3e0a3093c"
 ---
 
 # 在北京吃南亚中东菜（下篇）

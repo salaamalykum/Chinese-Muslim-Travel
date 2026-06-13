@@ -1,9 +1,13 @@
 ---
 title: "2021年春天的北京清真日记（上篇）"
-article_id: "2102"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2102"
+canonical_url: "https://salaamalykum.com/cn/article/2102"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2102"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "28813aab45c7b8ea2bfaba0b0f0a3c5db36e18f64eebe9aaf49eef890ec4c3b4"
 ---
 
 # 2021年春天的北京清真日记（上篇）

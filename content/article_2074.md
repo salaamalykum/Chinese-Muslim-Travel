@@ -1,9 +1,13 @@
 ---
 title: "北京前门外的回民老建筑"
-article_id: "2074"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2074"
+canonical_url: "https://salaamalykum.com/cn/article/2074"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2074"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "22098269c07c50b83059185669e347b9c2ffec7814fb0a15294eb80f587a410e"
 ---
 
 # 北京前门外的回民老建筑

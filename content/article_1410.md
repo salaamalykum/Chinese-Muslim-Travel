@@ -1,9 +1,13 @@
 ---
 title: "Business Identity Get Verified, Build Trust And Transparency"
-article_id: "1410"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/?/article/1410"
+canonical_url: "https://salaamalykum.com/?/article/1410"
 author: "Hasan09"
-url: "https://salaamalykum.com/?/article/1410"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "8a59bb6831e084c6824d225d8a017f4dcc1c9a634733df2b69304cafa6a3f0bb"
 ---
 
 # Business Identity Get Verified, Build Trust And Transparency

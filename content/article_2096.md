@@ -1,9 +1,13 @@
 ---
 title: "俄罗斯喀山鞑靼人的十三座传统清真寺"
-article_id: "2096"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2096"
+canonical_url: "https://salaamalykum.com/cn/article/2096"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2096"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "c5f5c2ef19bc04c0e32fc76e6721a689b2d9820b9dac86d045c201329c9ae951"
 ---
 
 # 俄罗斯喀山鞑靼人的十三座传统清真寺

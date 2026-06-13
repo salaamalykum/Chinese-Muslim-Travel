@@ -1,9 +1,13 @@
 ---
 title: "Muslim Free Trade Association"
-article_id: "1409"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/?/article/1409"
+canonical_url: "https://salaamalykum.com/?/article/1409"
 author: "Hasan09"
-url: "https://salaamalykum.com/?/article/1409"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "66b2f418012816d300ac540a2978f9d893954d332f7491657939c1681a65ed5f"
 ---
 
 # Muslim Free Trade Association

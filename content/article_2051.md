@@ -1,9 +1,13 @@
 ---
 title: "云南昭通清真逛吃"
-article_id: "2051"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2051"
+canonical_url: "https://salaamalykum.com/cn/article/2051"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2051"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "cd37813549b82e139afa3805f7220fc1a049dd1f43fda92398344ebaa4ac11e4"
 ---
 
 # 云南昭通清真逛吃

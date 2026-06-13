@@ -1,9 +1,13 @@
 ---
 title: "一场乌鲁木齐回民宴席"
-article_id: "2067"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2067"
+canonical_url: "https://salaamalykum.com/cn/article/2067"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2067"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "d7da2e4379ad363c9d7560f40432b7380d282f4c59ad30072efce8c87a4bd497"
 ---
 
 # 一场乌鲁木齐回民宴席

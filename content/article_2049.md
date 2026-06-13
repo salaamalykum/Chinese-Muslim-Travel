@@ -1,9 +1,13 @@
 ---
 title: "大理下关与巍山清真逛吃"
-article_id: "2049"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2049"
+canonical_url: "https://salaamalykum.com/cn/article/2049"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2049"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "9e115e33fd1c6662214df134337729c3b52be557ce5e7c85c89e45c59843f981"
 ---
 
 # 大理下关与巍山清真逛吃

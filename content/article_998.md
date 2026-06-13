@@ -1,9 +1,13 @@
 ---
 title: "关于我们"
-article_id: "998"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/998"
+canonical_url: "https://salaamalykum.com/cn/article/998"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/998"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "229254e301463eb4d120f2aeedfde672ab2427063f3819c6a2916dc0532add6a"
 ---
 
 # 关于我们

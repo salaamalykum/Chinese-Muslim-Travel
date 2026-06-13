@@ -1,9 +1,13 @@
 ---
 title: "云南昭通的六座传统清真寺"
-article_id: "2077"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2077"
+canonical_url: "https://salaamalykum.com/cn/article/2077"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2077"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "edad7c054ac87974ccfbb6f114ccd9431fdbdda007f0d1232ee2fb07d17ad698"
 ---
 
 # 云南昭通的六座传统清真寺

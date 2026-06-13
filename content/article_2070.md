@@ -1,9 +1,13 @@
 ---
 title: "帖木儿之都——撒马尔罕（上篇）"
-article_id: "2070"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2070"
+canonical_url: "https://salaamalykum.com/cn/article/2070"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2070"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "282deeb62c422e076523c1e42ecdfc9f0d97fa3ee21352dc74cd890a4a26169d"
 ---
 
 # 帖木儿之都——撒马尔罕（上篇）

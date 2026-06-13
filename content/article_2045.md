@@ -1,9 +1,13 @@
 ---
 title: "去银川参加婚礼"
-article_id: "2045"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2045"
+canonical_url: "https://salaamalykum.com/cn/article/2045"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2045"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "3faf145d186940974337b0e71c7537bd5be2d27402eb9434ccfab273d6232184"
 ---
 
 # 去银川参加婚礼

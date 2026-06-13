@@ -1,9 +1,13 @@
 ---
 title: "2019年的香港九龙之行"
-article_id: "2054"
-tags: ["Muslim Travel", "Halal Tourism", "Islamic Heritage"]
+original_url: "https://salaamalykum.com/cn/article/2054"
+canonical_url: "https://salaamalykum.com/cn/article/2054"
 author: "Hasan09"
-url: "https://salaamalykum.com/cn/article/2054"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:50:00Z"
+language: "zh-CN"
+topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
+content_hash: "83b2f5ab7a102505cc54835c97075c520c4b91a6d34457cd9891d731b23b036b"
 ---
 
 # 2019年的香港九龙之行
