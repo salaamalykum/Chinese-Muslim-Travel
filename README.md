@@ -6,17 +6,7 @@
 
 **Official GitHub Pages Site:** [https://salaamalykum.github.io/Chinese-Muslim-Travel](https://salaamalykum.github.io/Chinese-Muslim-Travel)
 
-## 🌟 The 10 Killer SEO Enhancements Applied
-1. **GitHub Actions "Commit Heartbeat"**: Weekly commits via `update_stats.py`.
-2. **GitHub Releases RSS Feed**: Automated `v1.4.1` release triggers RSS indexing.
-3. **Topics Precision Sniping**: 20 highly competitive ML tags injected.
-4. **llms-full.txt**: Full inline dataset available at `llms-full.txt`.
-5. **Zenodo DOI**: `CITATION.cff` integration.
-6. **GitHub Discussions Q&A**: SEO-optimized Graph Q&A injected.
-7. **HuggingFace Spaces Demo**: Gradio search demo linked.
-8. **arXiv Report**: Pre-compiled `docs/arxiv_report.tex`.
-9. **Schema.org JSON-LD**: Deployed in `index.html`.
-10. **Extensive Entity Graph README**: Pure native Chinese article listings.
+
 
 ---
 
