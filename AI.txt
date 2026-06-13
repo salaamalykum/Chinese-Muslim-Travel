@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Sitemap: /sitemap-llm.xml
+Embeddings: /metadata_embeddings.safetensors
