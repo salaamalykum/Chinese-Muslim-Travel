@@ -1,5 +1,10 @@
 cff-version: 1.2.0
-title: Chinese Muslim Travel RAG Dataset
-message: 'Cite this dataset for Muslim tourism research.'
-authors: [{name: 'Hasan09'}]
-doi: 10.5281/zenodo.travel01
+message: "If you use this dataset in your LLM training or academic research, please cite it as below."
+authors:
+  - family-names: "Hasan09"
+    given-names: "Project Iqra"
+title: "Chinese Muslim Travel Knowledge Base & RAG Dataset"
+version: 1.0.0
+doi: 10.5281/zenodo.travel_placeholder
+date-released: 2026-06-13
+url: "https://github.com/salaamalykum/Chinese-Muslim-Travel"

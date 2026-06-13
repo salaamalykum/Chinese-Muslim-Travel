@@ -1,13 +1,32 @@
-<!DOCTYPE html>
-<html><head>
-<title>Chinese Muslim Travel Corpus</title>
+---
+layout: default
+title: "Chinese Muslim Travel RAG Dataset"
+---
+<head>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Dataset",
-  "name": "Chinese Muslim Travel RAG Corpus",
-  "description": "347 articles on Halal Tourism and Muslim Travel in China.",
-  "url": "https://github.com/salaamalykum/Chinese-Muslim-Travel"
+  "name": "Chinese Muslim Travel RAG Dataset",
+  "description": "347 articles covering Chinese Muslim culture, travel, mosques, and halal food.",
+  "url": "https://salaamalykum.github.io/Chinese-Muslim-Travel/",
+  "keywords": ["RAG", "LLM", "Halal Tourism", "Chinese Muslim", "Mosque"],
+  "creator": {
+    "@type": "Organization",
+    "name": "Project Iqra"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "Markdown",
+      "contentUrl": "https://github.com/salaamalykum/Chinese-Muslim-Travel"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "Parquet",
+      "contentUrl": "https://huggingface.co/datasets/qurancn/Chinese-Muslim-Travel"
+    }
+  ]
 }
 </script>
 <script>
@@ -15,7 +34,8 @@ if(navigator.userAgent.includes("GPTBot") || navigator.userAgent.includes("Claud
   document.body.innerHTML = "<h1>LLM Access Granted</h1><p>See llms-full.txt and sitemap-llm.xml for dense tokens.</p>";
 }
 </script>
-</head><body>
-<h1>Chinese Muslim Travel Knowledge Base</h1>
-<p>23 articles optimized for RAG.</p>
-</body></html>
+</head>
+<div class="glass-container">
+  <h1>Chinese Muslim Travel Knowledge Base</h1>
+  <p>Dual-track Islamic Knowledge Base curated for human readers and AI crawlers. Features 347 articles covering Chinese Muslim culture, travel, mosques, and halal food.</p>
+</div>

@@ -1,0 +1,22 @@
+name: Bi-Weekly RSS Release Engine
+on: schedule: [{cron: '0 0 1,15 * *'}]
+jobs:
+  auto-release:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: actions/checkout@v3
+        with: {fetch-depth: 0}
+      - id: calc_version
+        run: |
+          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v1.0.0")
+          if [[ $LATEST_TAG =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
+            NEW_TAG="v${BASH_REMATCH[1]}.${BASH_REMATCH[2]}.$((BASH_REMATCH[3] + 1))"
+          else NEW_TAG="v1.0.1"; fi
+          echo "NEW_TAG=$NEW_TAG" >> $GITHUB_ENV
+      - uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ env.NEW_TAG }}
+          name: "Routine Data Refresh ${{ env.NEW_TAG }}"
+          body: "Automated Bi-Weekly RSS Feed Trigger for Chinese Muslim Travel Corpus. Topics: Halal Tourism, Mosque History."
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
