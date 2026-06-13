@@ -1,7 +1,8 @@
 # Changelog
 
-## [v1.1.0] - 2026-06-13
+## [v1.2.0] - 2026-06-13
+- Massive 279-article upload.
 - Strict 8-field YAML metadata implemented.
 - Timestamps synchronized.
 - Removed fake Alpaca labels, firmly designated as RAG Corpus.
-- Deployed Jekyll UI via GitHub Pages.
+- 10 Killer SEO methods injected.
