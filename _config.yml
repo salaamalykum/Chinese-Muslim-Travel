@@ -1,6 +1,11 @@
 title: Chinese Muslim Travel RAG Corpus
-description: A highly structured corpus of Islamic Halal travel articles.
+description: expertly curated articles covering Chinese Muslim travel
 url: "https://salaamalykum.github.io"
 baseurl: "/Chinese-Muslim-Travel"
 theme: minima
-lastmod: "2026-06-13T14:50:00Z"
+defaults:
+  -
+    scope:
+      path: "content"
+    values:
+      layout: "article"

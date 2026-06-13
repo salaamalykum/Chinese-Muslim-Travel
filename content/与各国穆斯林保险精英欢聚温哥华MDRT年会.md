@@ -8,6 +8,7 @@ lastmod: "2026-06-13T17:39:59Z"
 language: "zh-CN"
 topics: ["Muslim Travel", "Halal Tourism", "Islamic Heritage", "RAG Corpus"]
 content_hash: "e08d24d403fd537abd27b012f3662810ee387a256ef2a5e08b53869c97dc0d09"
+layout: "article"
 ---
 
 **网络转帖**
